@@ -18,7 +18,7 @@ An AI-powered interview platform built with **Next.js**, **React**, **JavaScript
 - **Authentication:** NextAuth.js  
 
 ## 📌 Getting Started  
-Clone the repo and follow the setup instructions in the Project Folder ai-interview to start building!  
+Clone the repo and follow the setup instructions in the Project Folder {ai-interview} to start building!  
 
 ---
 
